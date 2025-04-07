@@ -1,0 +1,27 @@
+body {background-color:darkslategray}
+h1{color: bisque;
+border-width: 5px;
+border-style: double;
+border-color: lightslategray;
+font-size: 60px;
+text-align: center;
+}
+h2{color: bisque;
+text-align: center;
+border-style:outset;
+border-radius: 10px;
+margin-left: 10px;
+margin-right: 10px;
+}
+p1{color: bisque;
+font-size: 40px;
+}
+p2{color: bisque;
+font-size: 40px;
+}
+#img{border-style: double;
+border-color: lightslategray;
+}
+#img1{border-style: double;
+border-color: lightslategray;
+}
